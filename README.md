@@ -13,31 +13,31 @@
 <br/>
 
 # <p align='center'><b>Get Started</b></p>
-**Our bot provides protection for the servers where the bot is located, the protection is developed with new and advanced ideas.**
+**Our bot provides general commands, administrative commands, and game commands, and the bot is developed with new and advanced ideas.**
 
 <br/>
 
 ## **Command's** :
 
-- **AntiBots On/OFF - Protect the server from entering bots. "Recommended"**
+- **user - To display user information**
 
-- **AntiVanity On/OFF - Server Shortcut URL Protection. "Recommended"**
+- **server - To display server information**
 
-- **AntiRoles On/OFF - Protection from creating, deleting or modifying many roles in a short time.**
+- **lock  - I lock a chat**
 
-- **AntiChannels On/OFF - Protection from creating, deleting or modifying many channels in a short time.**
+- **banner= - To display the user's banner**
 
-- **AntiLinks On/OFF - Protection from sending links.**
+- **clear - I delete messages in the server**
 
-- **AntiUpdate On/OFF - Protection from modifying the server name and icon.**
+- **vkick - I kicked the user out of the audio ROM**
 
 <br/>
 
 ## **Information :**
 
-#### **Default Prefix : `?`**
+#### **Default Prefix : `.`**
 
-#### **When inserting the bot into the server, activate the protection with [Here](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-).**
+#### **When entering the bot into the server, use the commands from here [Here](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-).**
 
 <br/>
 
