@@ -52,7 +52,7 @@
 
 - **Bot Terms of Service:**
 
-**The customer must provide us with information about the server on which the bot is located for the purpose of using the bot to complete its task.**
+**There are no conditions dear customer**
 
 **The bot is not responsible for any damage caused to the server in which the bot is located due to technical reasons**
 
@@ -65,7 +65,7 @@
 
 - **The information requested by the bot:**
 
-**The bot stores all the information needed by the server**
+**The robot does not store information**
 
 - **Server safety:**
 
