@@ -13,29 +13,29 @@
 <br/>
 
 # <p align='center'><b>Get Started</b></p>
-**Our bot provides general commands, administrative commands, and game commands, and the bot is developed with new and advanced ideas.**
+**Our bot provides commands giveaways , and the bot is developed with new and advanced ideas.**
 
 <br/>
 
 ## **Command's** :
 
-- **user - To display user information**
+- **pstart - This is an order used to add a gift**
 
-- **server - To display server information**
+- **pbot - To display bot information**
 
-- **lock  - I lock a chat**
+- **pdelete  - I delete the gift**
 
-- **banner= - To display the user's banner**
+- **pedit - Edit gift information**
 
-- **clear - I delete messages in the server**
+- **pping - To display ping bot**
 
-- **vkick - I kicked the user out of the audio ROM**
+- **phelp - View bot commands**
 
 <br/>
 
 ## **Information :**
 
-#### **Default Prefix : `.`**
+#### **Default Prefix : `!p`**
 
 #### **When entering the bot into the server, use the commands from here [Here](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-).**
 
