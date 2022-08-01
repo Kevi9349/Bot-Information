@@ -65,7 +65,7 @@
 
 - **The information requested by the bot:**
 
-**The bot stores the information it needs to fully protect the servers**
+**The bot stores all the information needed by the server**
 
 - **Server safety:**
 
